@@ -4,7 +4,7 @@ This repository is a demo project for the fictitious DitaForge XML editor. It is
 
 ## Forking this repository
 
-Feel free to fork this repository for your own testing or documentation experiments
+Feel free to fork this repository for your own testing or documentation experiments.
 
 ## Directory structure
 
